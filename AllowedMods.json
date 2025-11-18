@@ -1,48 +1,206 @@
 {
-  "letsdo-farm_and_charm-neoforge-1.1.12": { "Version": "1.1.12", "Hash": "9f8ed315ddb54b7465d39d086e2137fa257a7d4917f9af6088cbf90d02bdc2ea" },
-  "amendments-1.21-2.0.8-neoforge": { "Version": "1.21-2.0.8", "Hash": "33F5B4F2667475919DDD79C6428D207A21F1F2CA23868DD963571D196D275015" },
-  "another_furniture-neoforge-4.0.0": { "Version": "4.0.0", "Hash": "01f88c1e453dc1fcd8c99e7983bddd01809779392b355766255dec32dd44948c" },
-  "architectury-13.0.8-neoforge": { "Version": "13.0.8", "Hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee" },
-  "balm-neoforge-1.21.1-21.0.54": { "Version": "21.0.54", "Hash": "52fbd6a7c6200b6f32d5169db350c67958ec977b5658a448d96ca146a8f17839" },
-  "cloth-config-15.0.140-neoforge": { "Version": "15.0.140", "Hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4" },
-  "CraftPresence-2.7.0+1.21.1-neoforge": { "Version": "2.7.0", "Hash": "A5810B430AAB2117F2B159CB14B6FB46FAE38F73AB7050547516FCC3834E903B" },
-  "create-1.21.1-6.0.8": { "Version": "6.0.6", "Hash": "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee" },
-  "ecologics-1.21.1-2.3.1": { "Version": "2.3.1", "Hash": "9de816aa4dd0730eeefb5803a9eff9ded09ff3dd49dd3807d3bcca72a72c946f" },
-  "exposure-neoforge-1.21.1-1.9.12": { "Version": "1.9.11", "Hash": "35339f608762d0c886d2cb9a21f6eb8ca9d56ff9a9701cc4bf9c6f8000bba20e" },
-  "ferritecore-7.0.2-neoforge": { "Version": "7.0.2", "Hash": "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539" },
-  "flywheel": { "Version": "1.0.4", "Hash": "" },
-  "fabric_api_base": { "Version": "0.4.42+d1308ded19", "Hash": "" },
-  "fabric_block_view_api_v2": { "Version": "1.0.10+9afaaf8c19", "Hash": "" },
-  "fabric_game_rule_api_v1": { "Version": "1.0.53+36d727be19", "Hash": "" },
-  "fabric_model_loading_api_v1": { "Version": "2.0.0+986ae77219", "Hash": "" },
-  "fabric_renderer_indigo": { "Version": "1.7.0+acb05a3919", "Hash": "" },
-  "fabric_renderer_api_v1": { "Version": "3.4.0+9c40919e19", "Hash": "" },
-  "Kiwi-1.21.1-NeoForge-15.8.2": { "Version": "15.8.2+neoforge", "Hash": "84f469abcc7781d861f13e05a2064f7526a70af3076f73da4a4ad9edad29e2b9" },
-  "konkrete_neoforge_1.9.9_MC_1.21": { "Version": "1.9.9", "Hash": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd" },
-  "kuma_api": { "Version": "21.0.7", "Hash": "" },
-  "mcw-fences-1.2.0-1.21.1neoforge": { "Version": "1.2.0", "Hash": "881f3ffa2274477573af279090740331426645e6d7cc303b36f3bfd5942c2811" },
-  "melody_neoforge_1.0.10_MC_1.21": { "Version": "1.0.10", "Hash": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871" },
-  "minecraft": { "Version": "1.21.1", "Hash": "" },
-  "moonlight-1.21-2.26.3-neoforge": { "Version": "1.21-2.22.0", "Hash": "c34249698141c5efa1f50d7efa49ee80004592d8a78c25c1893fd97210b81d2c" },
-  "more_armor_trims-neoforge-1.5.1-1.21": { "Version": "1.5.1-1.21", "Hash": "382f784ef945f211c541264ef96ae18895a4d9cde48b4da5d34df8bda5775c76" },
-  "movingelevators-1.4.11-neoforge-mc1.21": { "Version": "1.4.11", "Hash": "1387c491ebace1c70d610adda41e2535e9930a49a946bcac3aae888c4d1df253" },
-  "neoforge": { "Version": "21.1.174", "Hash": "" },
-  "ponder": { "Version": "1.0.56", "Hash": "" },
-  "remove-terralith-intro-message-1.1": { "Version": "1.1", "Hash": "15412603b8090e1ca79a2b5e52b03d2f441a6e65d5729b525f991a1d2acd5498" },
-  "voicechat-neoforge-1.21.1-2.6.6": { "Version": "1.21.1-2.6.6", "Hash": "D6B030F5E217D904AACA29C6E6F1A6B7365BE6931DB0BD7632E6385805B498B1" },
-  "SnowRealMagic-1.21.1-NeoForge-12.1.2": { "Version": "12.1.2+neoforge", "Hash": "ca43aacdd83dd8864228020775875a14eb379f5dd3153d4928c295aa23703739" },
-  "snowyspirit-1.21.1-3.0.18-neoforge": { "Version": "1.21.1-3.0.17", "Hash": "46d7cfcc1df2e31614fcfde28f73a606bee6c0e3ce45b4984eabcbe5b33f4a91" },
-  "supermartijn642configlib-1.1.8-neoforge-mc1.21": { "Version": "1.1.8", "Hash": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b" },
-  "supermartijn642corelib-1.1.18a-neoforge-mc1.21": { "Version": "1.1.18+a", "Hash": "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420" },
-  "supplementaries-1.21-3.4.20-neoforge": { "Version": "1.21-3.4.14", "Hash": "04b3012fb8f291e0c477a6c3096df86ed107cf459d1f13eb32174f2539793c4f" },
-  "Terralith_1.21.x_v2.5.8": { "Version": "2.5.8", "Hash": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf" },
-  "travelersbackpack-neoforge-1.21.1-10.1.26": { "Version": "10.1.26", "Hash": "adb5f1ef2ec24fe04848d201e8c3f2ec057e42616b5c2e31b70a531ca83b7a42" },
-  "trek-B0.5.1.1": { "Version": "1-B0.5.1.1", "Hash": "b2d01e00be467c1e4e57bf2e590c0baa14d06a86a9ff6eac9613dc1c91062f3a" },
-  "UniLib-1.2.0+1.21.1-neoforge": { "Version": "1.2.0", "Hash": "222c72818cf71c78416ee729d07645be287e9c5ee3058aa9913350a99b35a4ea" },
-  "waystones-neoforge-1.21.1-21.1.23": { "Version": "21.1.23", "Hash": "f0eb03ffed681eb871092be0fa96b2a55166430f94a5537c3cf000afc326880d" },
-  "winterly-0.11.2+1.21": { "Version": "0.11.2+1.21", "Hash": "0c9e7beb141710c1bc274b4696298c66a084fc0d4b406a0211e76dcb0b75881f" },
-  "drippyloadingscreen_neoforge_3.0.12_MC_1.21.1": { "Version": "3.0.12_MC_1.21.1", "Hash": "A0D941BDA35BECBFBEAEF02590CC2DD64228FA497A302292156192C2EE1E5C1E" },
-  "entityculling-neoforge-1.9.3-mc1.21.1": { "Version": "1.9.3-mc1.21.1", "Hash": "D79464477F7F845091387529BF0C1E565D62551CDB1ADB2A16DCF8C9D22BF200" },
-  "fancymenu_neoforge_3.7.0_MC_1.21.1": { "Version": "3.7.0_MC_1.21.1", "Hash": "3C6CCE7EF18254C13E2E061CB882160C9D00F91B09BB589423BACCC4F4366462" },
-  "iris-neoforge-1.8.12+mc1.21.1": { "Version": "1.8.12+mc1.21.1", "Hash": "3E3F94D2D5CDCB8145C4385D521974AA2D8669B2CC212351F70CF06488182E83" }
+  "amendments-1.21-2.0.8-neoforge": {
+    "Version": "1.21-2.0.8",
+    "Hash": "33f5b4f2667475919ddd79c6428d207a21f1f2ca23868dd963571d196d275015"
+  },
+  "another_furniture-neoforge-4.0.0": {
+    "Version": "4.0.0",
+    "Hash": "01f88c1e453dc1fcd8c99e7983bddd01809779392b355766255dec32dd44948c"
+  },
+  "architectury-13.0.8-neoforge": {
+    "Version": "13.0.8",
+    "Hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+  },
+  "balm-neoforge-1.21.1-21.0.54": {
+    "Version": "21.0.54",
+    "Hash": "52fbd6a7c6200b6f32d5169db350c67958ec977b5658a448d96ca146a8f17839"
+  },
+  "cloth-config-15.0.140-neoforge": {
+    "Version": "15.0.140",
+    "Hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+  },
+  "CraftPresence-2.7.0+1.21.1-neoforge": {
+    "Version": "2.7.0",
+    "Hash": "a5810b430aab2117f2b159cb14b6fb46fae38f73ab7050547516fcc3834e903b"
+  },
+  "create-1.21.1-6.0.8": {
+    "Version": "6.0.6",
+    "Hash": "5f2d593a9cee2403f0c5bde06c59df8378f57e5d2314fed9fffd32d0281a6de1"
+  },
+  "drippyloadingscreen_neoforge_3.0.12_MC_1.21.1": {
+    "Version": "3.0.12_MC_1.21.1",
+    "Hash": "a0d941bda35becbfbeaef02590cc2dd64228fa497a302292156192c2ee1e5c1e"
+  },
+  "ecologics-1.21.1-2.3.1": {
+    "Version": "2.3.1",
+    "Hash": "9de816aa4dd0730eeefb5803a9eff9ded09ff3dd49dd3807d3bcca72a72c946f"
+  },
+  "entityculling-neoforge-1.9.3-mc1.21.1": {
+    "Version": "1.9.3-mc1.21.1",
+    "Hash": "d79464477f7f845091387529bf0c1e565d62551cdb1adb2a16dcf8c9d22bf200"
+  },
+  "exposure-neoforge-1.21.1-1.9.12": {
+    "Version": "1.9.11",
+    "Hash": "a734c8d63c671dd6ee3583f2f8c75b64f7f544c348e341f4bc4e73ac12aa5f3f"
+  },
+  "fabric_api_base": {
+    "Version": "0.4.42+d1308ded19",
+    "Hash": ""
+  },
+  "fabric_block_view_api_v2": {
+    "Version": "1.0.10+9afaaf8c19",
+    "Hash": ""
+  },
+  "fabric_game_rule_api_v1": {
+    "Version": "1.0.53+36d727be19",
+    "Hash": ""
+  },
+  "fabric_model_loading_api_v1": {
+    "Version": "2.0.0+986ae77219",
+    "Hash": ""
+  },
+  "fabric_renderer_api_v1": {
+    "Version": "3.4.0+9c40919e19",
+    "Hash": ""
+  },
+  "fabric_renderer_indigo": {
+    "Version": "1.7.0+acb05a3919",
+    "Hash": ""
+  },
+  "fancymenu_neoforge_3.7.0_MC_1.21.1": {
+    "Version": "3.7.0_MC_1.21.1",
+    "Hash": "3c6cce7ef18254c13e2e061cb882160c9d00f91b09bb589423baccc4f4366462"
+  },
+  "ferritecore-7.0.2-neoforge": {
+    "Version": "7.0.2",
+    "Hash": "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539"
+  },
+  "flywheel": {
+    "Version": "1.0.4",
+    "Hash": ""
+  },
+  "iris-neoforge-1.8.12+mc1.21.1": {
+    "Version": "1.8.12+mc1.21.1",
+    "Hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+  },
+  "jei-1.21.1-neoforge-19.25.0.325": {
+    "Version": null,
+    "Hash": "dc957171379c56ea8675f0aac37c790c9761eda0baac3e19dced94f431d5c274"
+  },
+  "Kiwi-1.21.1-NeoForge-15.8.2": {
+    "Version": "15.8.2+neoforge",
+    "Hash": "84f469abcc7781d861f13e05a2064f7526a70af3076f73da4a4ad9edad29e2b9"
+  },
+  "konkrete_neoforge_1.9.9_MC_1.21": {
+    "Version": "1.9.9",
+    "Hash": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+  },
+  "kuma_api": {
+    "Version": "21.0.7",
+    "Hash": ""
+  },
+  "letsdo-farm_and_charm-neoforge-1.1.12": {
+    "Version": "1.1.12",
+    "Hash": "9f8ed315ddb54b7465d39d086e2137fa257a7d4917f9af6088cbf90d02bdc2ea"
+  },
+  "mcw-fences-1.2.0-1.21.1neoforge": {
+    "Version": "1.2.0",
+    "Hash": "881f3ffa2274477573af279090740331426645e6d7cc303b36f3bfd5942c2811"
+  },
+  "melody_neoforge_1.0.10_MC_1.21": {
+    "Version": "1.0.10",
+    "Hash": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
+  },
+  "minecraft": {
+    "Version": "1.21.1",
+    "Hash": ""
+  },
+  "moonlight-1.21-2.26.3-neoforge": {
+    "Version": "1.21-2.22.0",
+    "Hash": "1874732d9c2a3e26c73a7ccc934ef5b76a4e673f387b5ff524c9ce824a7e37a5"
+  },
+  "more_armor_trims-neoforge-1.5.1-1.21": {
+    "Version": "1.5.1-1.21",
+    "Hash": "382f784ef945f211c541264ef96ae18895a4d9cde48b4da5d34df8bda5775c76"
+  },
+  "movingelevators-1.4.11-neoforge-mc1.21": {
+    "Version": "1.4.11",
+    "Hash": "1387c491ebace1c70d610adda41e2535e9930a49a946bcac3aae888c4d1df253"
+  },
+  "neoforge": {
+    "Version": "21.1.174",
+    "Hash": ""
+  },
+  "no-telemetry-1.9.0": {
+    "Version": null,
+    "Hash": "2736522c5fec19471c54a665242eb4c314f35483b987c7a7c44fe1354a04542e"
+  },
+  "ponder": {
+    "Version": "1.0.56",
+    "Hash": ""
+  },
+  "remove-terralith-intro-message-1.1": {
+    "Version": "1.1",
+    "Hash": "15412603b8090e1ca79a2b5e52b03d2f441a6e65d5729b525f991a1d2acd5498"
+  },
+  "SecurityEnclave-1.3": {
+    "Version": null,
+    "Hash": "d761f1819a6d2505d62fd67551ff8709e46ae94919a70e90cd4334dd7aef74d2"
+  },
+  "SnowRealMagic-1.21.1-NeoForge-12.1.2": {
+    "Version": "12.1.2+neoforge",
+    "Hash": "ca43aacdd83dd8864228020775875a14eb379f5dd3153d4928c295aa23703739"
+  },
+  "snowyspirit-1.21.1-3.0.18-neoforge": {
+    "Version": "1.21.1-3.0.17",
+    "Hash": "a2b7b0031bd1383eea0fc64ded65bf1d3fd836730612dcbe5d1c4ee440bb3d04"
+  },
+  "sodium-neoforge-0.6.13+mc1.21.1": {
+    "Version": null,
+    "Hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+  },
+  "sound-physics-remastered-neoforge-1.21.1-1.5.1": {
+    "Version": null,
+    "Hash": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+  },
+  "supermartijn642configlib-1.1.8-neoforge-mc1.21": {
+    "Version": "1.1.8",
+    "Hash": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+  },
+  "supermartijn642corelib-1.1.18a-neoforge-mc1.21": {
+    "Version": "1.1.18+a",
+    "Hash": "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
+  },
+  "supplementaries-1.21-3.4.20-neoforge": {
+    "Version": "1.21-3.4.14",
+    "Hash": "364449c88ad36a8fe6d893c23d9d458d33b12cd710f53fe642715e80c62578fa"
+  },
+  "Terralith_1.21.x_v2.5.8": {
+    "Version": "2.5.8",
+    "Hash": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"
+  },
+  "travelersbackpack-neoforge-1.21.1-10.1.26": {
+    "Version": "10.1.26",
+    "Hash": "adb5f1ef2ec24fe04848d201e8c3f2ec057e42616b5c2e31b70a531ca83b7a42"
+  },
+  "trek-B0.5.1.1": {
+    "Version": "1-B0.5.1.1",
+    "Hash": "b2d01e00be467c1e4e57bf2e590c0baa14d06a86a9ff6eac9613dc1c91062f3a"
+  },
+  "UniLib-1.2.0+1.21.1-neoforge": {
+    "Version": "1.2.0",
+    "Hash": "222c72818cf71c78416ee729d07645be287e9c5ee3058aa9913350a99b35a4ea"
+  },
+  "voicechat-neoforge-1.21.1-2.6.6": {
+    "Version": "1.21.1-2.6.6",
+    "Hash": "d6b030f5e217d904aaca29c6e6f1a6b7365be6931db0bd7632e6385805b498b1"
+  },
+  "waystones-neoforge-1.21.1-21.1.23": {
+    "Version": "21.1.23",
+    "Hash": "f0eb03ffed681eb871092be0fa96b2a55166430f94a5537c3cf000afc326880d"
+  },
+  "winterly-0.11.2+1.21": {
+    "Version": "0.11.2+1.21",
+    "Hash": "0c9e7beb141710c1bc274b4696298c66a084fc0d4b406a0211e76dcb0b75881f"
+  }
 }
