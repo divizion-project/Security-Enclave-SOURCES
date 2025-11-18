@@ -42,5 +42,6 @@
   "waystones-neoforge-1.21.1-21.1.23": { "Version": "21.1.23", "Hash": "f0eb03ffed681eb871092be0fa96b2a55166430f94a5537c3cf000afc326880d" },
   "winterly-0.11.2+1.21": { "Version": "0.11.2+1.21", "Hash": "0c9e7beb141710c1bc274b4696298c66a084fc0d4b406a0211e76dcb0b75881f" },
   "drippyloadingscreen_neoforge_3.0.12_MC_1.21.1": { "Version": "3.0.12_MC_1.21.1", "Hash": "A0D941BDA35BECBFBEAEF02590CC2DD64228FA497A302292156192C2EE1E5C1E" },
-  "entityculling-neoforge-1.9.3-mc1.21.1": { "Version": "1.9.3-mc1.21.1", "Hash": "D79464477F7F845091387529BF0C1E565D62551CDB1ADB2A16DCF8C9D22BF200" }
+  "entityculling-neoforge-1.9.3-mc1.21.1": { "Version": "1.9.3-mc1.21.1", "Hash": "D79464477F7F845091387529BF0C1E565D62551CDB1ADB2A16DCF8C9D22BF200" },
+  "fancymenu_neoforge_3.7.0_MC_1.21.1": { "Version": "3.7.0_MC_1.21.1", "Hash": "3C6CCE7EF18254C13E2E061CB882160C9D00F91B09BB589423BACCC4F4366462" }
 }
