@@ -203,4 +203,9 @@
     "Version": "0.11.2+1.21",
     "Hash": "0c9e7beb141710c1bc274b4696298c66a084fc0d4b406a0211e76dcb0b75881f"
   }
+  },
+  "curios-neoforge-9.5.1+1.21.1": {
+    "Version": "9.5.1+1.21.1",
+    "Hash": "A45DF2125C26219974ABA7507FFC9AFE7B83ACC941A386AF3FAACB1CC0056FDE"
+  }
 }
