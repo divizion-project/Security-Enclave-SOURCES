@@ -41,5 +41,5 @@
   "UniLib-1.2.0+1.21.1-neoforge": { "Version": "1.2.0", "Hash": "222c72818cf71c78416ee729d07645be287e9c5ee3058aa9913350a99b35a4ea" },
   "waystones-neoforge-1.21.1-21.1.23": { "Version": "21.1.23", "Hash": "f0eb03ffed681eb871092be0fa96b2a55166430f94a5537c3cf000afc326880d" },
   "winterly-0.11.2+1.21": { "Version": "0.11.2+1.21", "Hash": "0c9e7beb141710c1bc274b4696298c66a084fc0d4b406a0211e76dcb0b75881f" },
-  "drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar": { "Version": "0.11.2+1.21", "Hash": "A0D941BDA35BECBFBEAEF02590CC2DD64228FA497A302292156192C2EE1E5C1E" }
+  "drippyloadingscreen_neoforge_3.0.12_MC_1.21.1": { "Version": "3.0.12_MC_1.21.1", "Hash": "A0D941BDA35BECBFBEAEF02590CC2DD64228FA497A302292156192C2EE1E5C1E" }
 }
